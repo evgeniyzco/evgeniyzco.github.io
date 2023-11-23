@@ -1,13 +1,13 @@
-layout: page
-title: "apple-app-site-association"
+---
+layout: null
 permalink: /.well-known/apple-app-site-association
-
+---
 {
     "applinks": {
         "details": [{
-            "appIDs": ["4QMDKC8VLJ.com.swiftlee.StockAnalyzer"],
+            "appIDs": ["FSV9V9NU26.com.zayatsco.FancyApp"],
             "components": [{
-                "/": "/open-watchface/*"
+                "/": "/*"
             }]
         }]
     }
